@@ -1,2 +1,8 @@
 # HelloWorldListView
-Being a minimum viable implementation of a table view-style UICollectionView using the new iOS14 features
+
+Being a minimum viable implementation of a table view-style UICollectionView using the new iOS14 features.
+
+Requirements:
+* Swift 5
+* Xcode 12
+* iOS 14
