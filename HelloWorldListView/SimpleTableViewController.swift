@@ -7,17 +7,6 @@
 
 import UIKit
 
-struct Item: Hashable {
-    var title: String
-    var subtitle: String
-    var image: UIImage
-}
-
-enum Section {
-    case main
-    case second
-}
-
 class SimpleTableViewController: UIViewController {
     
     var collectionView: UICollectionView!
